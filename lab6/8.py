@@ -1,0 +1,5 @@
+n = int(input())
+nums = list(map(int, input().split()))
+dist = set(nums)
+sort = sorted(dist)
+print(*sort)
