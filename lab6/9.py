@@ -1,4 +1,3 @@
-n = int(input())
 keys = input().split()
 value = input().split()
 query = input()
