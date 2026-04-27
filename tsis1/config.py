@@ -1,0 +1,5 @@
+DB_NAME = "phonebook"
+DB_USER = "nurmukhamedkudaibergenov"
+DB_PASSWORD = "qwerty"
+DB_HOST = "localhost"
+DB_PORT = "5432"
